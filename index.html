@@ -13,8 +13,9 @@
                color: #e8e9ec; font: 16px system-ui, -apple-system, "Segoe UI", sans-serif; background: #101216; }
     #loading .title { font-size: 20px; font-weight: 600; }
     #loading .sub { margin-top: 6px; font-size: 13px; color: #9aa3ad; }
+    #loading .credit { position: absolute; bottom: 18px; font-size: 12px; color: #6f7883; text-align: center; padding: 0 16px; }
     #bar { width: 240px; height: 6px; margin-top: 18px; background: #2a2e36; border-radius: 3px; overflow: hidden; }
-    #fill { width: 0; height: 100%; background: #f2c14e; transition: width 0.2s; }
+    #fill { width: 0; height: 100%; background: #33c7db; transition: width 0.2s; }
     #error { display: none; margin-top: 18px; max-width: 80%; color: #ff8f8f; font-size: 13px; text-align: center; }
   </style>
 </head>
@@ -24,6 +25,7 @@
     <div class="title">Network Anatomy</div>
     <div class="sub">UK distribution cables, cut-outs and boards, taken apart</div>
     <div id="bar"><div id="fill"></div></div>
+    <div class="credit">Application created by James Procter &copy; 2026 &middot; For education only</div>
     <div id="error"></div>
   </div>
   <script>
