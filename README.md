@@ -11,7 +11,7 @@ UK electricity distribution cables, cut-outs and boards, taken apart.
 - Cable joints (straight, transition and breech), an LV underground link box, an LV distribution pillar and a street lighting cut-out, in exploded view.
 - Works on a PC (mouse and keyboard) and on a phone (drag to turn, pinch to zoom, tap a part).
 
-Application created by James Procter © 2026.
+Application created by James Procter © 2026. All rights reserved: see [LICENSE](LICENSE).
 
 This app isn't affiliated with or endorsed by any manufacturer or DNO. Product names belong to their owners and are used only to identify equipment. This app is for education only.
 
