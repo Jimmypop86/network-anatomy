@@ -8,6 +8,7 @@ UK electricity distribution cables, cut-outs and boards, taken apart.
 - Cut-outs and boards in exploded view, stage by stage: Series 7 single phase and three phase cut-outs, older black phenolic heads, the cast-iron biscuit tin, and a Bemco 30-way multi-way distribution board, every carrier with its fuse link.
 - Transformers and substations in exploded view: a pole-mounted transformer on its pole (expulsion fuses, surge arresters, LV fuse cabinet), and a ground-mounted unit substation (ring main unit, transformer and LV board in a GRP housing), down to the core and windings.
 - The network journey: from the transmission network through grid and bulk supply points, primary and distribution substations, down the LV mains to the cut-out, each stop opening the matching items.
+- A 33/11 kV primary substation; 11 kV overhead line equipment (a pole-mounted auto-recloser with its SCADA control cubicle, and an air-break switch disconnector); a slice under the footway showing where the utilities lie; and an earthing systems page (TN-S, TN-C-S/PME, TT).
 - Cable joints (straight, transition and breech), an LV underground link box, an LV distribution pillar and a street lighting cut-out, in exploded view.
 - Works on a PC (mouse and keyboard) and on a phone (drag to turn, pinch to zoom, tap a part).
 
